@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
+    'todo-app-deployment-oxbt.onrender.com',
      '*',
     'subclimatic-sherri-nonprovocatively.ngrok-free.dev',
     '.ngrok-free.dev',  # Allow all ngrok-free.dev subdomains
